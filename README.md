@@ -199,7 +199,7 @@ int main() {
 <img width="515" height="321" alt="image" src="https://github.com/user-attachments/assets/86115e5b-028e-4c75-b1e6-9d3868a894e3" />
 
 ## RESULT:
-Thus the program has been executed by using CUDA to ________________.
+Thus the program has been executed by using CUDA to ________________.0.663776 milliseconds
 
 Questions:
 
