@@ -3,7 +3,7 @@
 <h3>ENTER YOUR NAME: RavivarmanVV</h3>
 <h3>ENTER YOUR REGISTER NO: 212224240133</h3>
 <h3>EX. NO: 3</h3>
-<h3>DATE</h3>
+<h3>DATE: 10.11.2026</h3>
 <h1> <align=center> Sobel edge detection filter using CUDA </h3>
   Implement Sobel edge detection filtern using GPU.</h3>
 Experiment Details:
@@ -199,7 +199,7 @@ int main() {
 <img width="515" height="321" alt="image" src="https://github.com/user-attachments/assets/86115e5b-028e-4c75-b1e6-9d3868a894e3" />
 
 ## RESULT:
-Thus the program has been executed by using CUDA to ________________.0.663776 milliseconds
+Thus the program has been executed by using CUDA in 0.663776 milliseconds
 
 Questions:
 
